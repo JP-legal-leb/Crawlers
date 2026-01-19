@@ -1,0 +1,812 @@
+[
+  {
+    "id": "eyJpdiI6ImgwTkxEUG0yN0hRdkRLT0dxaGlDT1E9PSIsInZhbHVlIjoiWkRjRzU4WE10bWlId3BjVUU3WEJiQT09IiwibWFjIjoiODNjYWM3NDY0YzhhNjY2MjcyZjBjMjdlYTZhNjU1ZjI0MjJlM2IyNjcxYTM2MGNmNmQyOGUzMDZlMzMyMzVlNyIsInRhZyI6IiJ9",
+    "title_ar": "آلية مشاركة الجهات الحكومية في معارض الكتاب الدولية لعام 1447هـ",
+    "title_en": "آلية مشاركة الجهات الحكومية في معارض الكتاب الدولية لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 5,
+        "name_ar": "أمر سامي",
+        "name_en": "High Order",
+        "TypeOrder": "4",
+        "approve_date": "١٤٤٧/٠٣/٢٨"
+      }
+    ],
+    "number": "24939",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/٢٨",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InRTRnBDU2N4VzExUHNMZ2RkRWtRdXc9PSIsInZhbHVlIjoid2kzNTAvSXU3TTdiQ0JLMlRhRXRYZz09IiwibWFjIjoiMmNiNTc2MzFlNTEwNDA4MWMxZjM4OWY1ZDM2MDkwYWUyY2JiNjhjOTk3ZDhjZjE5NmNhMDAzZDM3NjAwYzA4MiIsInRhZyI6IiJ9",
+    "title_ar": "إضافة صلاحية تحديد المقابل المالي لعمل المرافقين والمرافقات للعمالة الوافدة النظامية في المملكة لوزير الموارد البشرية والتنمية الاجتماعية",
+    "title_en": "إضافة صلاحية تحديد المقابل المالي لعمل المرافقين والمرافقات للعمالة الوافدة النظامية في المملكة لوزير الموارد البشرية والتنمية الاجتماعية",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/٢٤"
+      }
+    ],
+    "number": "229",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/٢٤",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IjJRQS9LMWxKT0hrbThFSVE4c2lPV1E9PSIsInZhbHVlIjoiUHBSdlJmTk5jVEt4anpzTExVZmZEUT09IiwibWFjIjoiMzJjNjhlZDhmZWQyYTg5YWZkZDcxYzc5NWZmYTM5MGVhNzY0MjIwNmUyMTkzODdlNjRkMTczMWYyYTE1MDU0NiIsInRhZyI6IiJ9",
+    "title_ar": "تعديل الفقرة (1) من المادة (4) من تنظيم هيئة المدن والمناطق الاقتصادية الخاصة لعام 1431هـ",
+    "title_en": "تعديل الفقرة (1) من المادة (4) من تنظيم هيئة المدن والمناطق الاقتصادية الخاصة لعام 1431هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 1,
+        "name_ar": "أمر ملكي",
+        "name_en": "Royal Order",
+        "TypeOrder": "1",
+        "approve_date": "١٤٤٧/٠٣/١٩"
+      }
+    ],
+    "number": "أ/76",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/١٩",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IkZDY1UyMEs2eTZqejl3Z0ZwNFhscnc9PSIsInZhbHVlIjoiNnIza1o2UGlIc3hTV3FoR0RQRU5ZQT09IiwibWFjIjoiMmMwNjVjMjE2NTI5OWU4YTdlNWU3ODFlZWMxNWNlYzc2MmE5MmViNTY2NTRkYjVhM2E1NDg0ZTgzOWQyM2ExZCIsInRhZyI6IiJ9",
+    "title_ar": "تنظيم المركز الوطني لسلامة النقل لعام 1447هـ",
+    "title_en": "تنظيم المركز الوطني لسلامة النقل لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/١٧"
+      }
+    ],
+    "number": "212",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/١٧",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InRsdWtkUEhwQmplRW52WGhNM2dWMkE9PSIsInZhbHVlIjoiREFFbXNrZDgweFlOendEZ3ZGNm5MUT09IiwibWFjIjoiOWQ5NDNjY2I1ZDI4MzEzMjEyZmE0NWU3NjRhNjkwN2Q2NjM3M2IxYThjNTE2Yzk0YTFlMTlkNzliY2Y1YjVlNSIsInRhZyI6IiJ9",
+    "title_ar": "إضافة ممثل لكل من هيئة تنمية البحث والتطوير والابتكار وهيئة فنون الطهي والهيئة العامة للأمن الغذائي إلى عضوية اللجنة الوطنية للتغذية",
+    "title_en": "إضافة ممثل لكل من هيئة تنمية البحث والتطوير والابتكار وهيئة فنون الطهي والهيئة العامة للأمن الغذائي إلى عضوية اللجنة الوطنية للتغذية",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/١٧"
+      }
+    ],
+    "number": "216",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/١٧",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InRFU3p0TWJSV0tlT291aDJJeUNYZlE9PSIsInZhbHVlIjoiN2RWYldEWlFua3NRaTVpckhONm9WZz09IiwibWFjIjoiMTNkNzhlNzUyNmM0YWI1NGJkYzg5ZjVkM2Q4NzI1Njk4MThiNmMzOTcwN2UzY2ExNDc5ODYzYzVkODAyZjJmMSIsInRhZyI6IiJ9",
+    "title_ar": "نظام نزع ملكية العقارات للمصلحة العامة ووضع اليد المؤقت على العقارات لعام 1447هـ",
+    "title_en": "نظام نزع ملكية العقارات للمصلحة العامة ووضع اليد المؤقت على العقارات لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠٣/١٢"
+      }
+    ],
+    "number": "م/56",
+    "is_valid": "غير سارية",
+    "approve_date": "١٤٤٧/٠٣/١٢",
+    "marker": {
+      "class": "no-valid-modern",
+      "title_ar": "الوثيقة حديثة وغير نافذة",
+      "title_en": "The document is modern and impermeable"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6Ik9GVEM0N2NIckd6UG4xSnIzSkowb3c9PSIsInZhbHVlIjoiZ1YwdUpBQjFnUUx6dWV5c0tvKzViUT09IiwibWFjIjoiYzU4YjhhNzIxMDBiNmQyMzQ5MjU1OWNlMDkwYjUzNjQ3NDkxN2VlMmE0Zjg2MjdiY2E5YmQ2MTZiY2JiOWQ1YiIsInRhZyI6IiJ9",
+    "title_ar": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع",
+    "title_en": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/١٠"
+      }
+    ],
+    "number": "198",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/١٠",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6Ii9ydWhKeHZINlZQQlJkVDdlaW5Nbmc9PSIsInZhbHVlIjoiNnZPaXp1azJzbDBVQWIyemRpcXFudz09IiwibWFjIjoiODc1YjdjN2QxYjhiNjU3MDlkNmRhMWVjY2U1NjRmY2Y5NGY0NDBhMTljZTIxNTcxNTg2NGU4N2I5MjBkNmFlNiIsInRhZyI6IiJ9",
+    "title_ar": "قواعد تحديد درجات إركاب الموظفين والعاملين في الأجهزة العامة من مدنيين وعسكريين لعام 1447هـ",
+    "title_en": "قواعد تحديد درجات إركاب الموظفين والعاملين في الأجهزة العامة من مدنيين وعسكريين لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/١٠"
+      }
+    ],
+    "number": "196",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/١٠",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IkFkWEl2OXFjamJxaEh4QVVqMTNQelE9PSIsInZhbHVlIjoiTnhjWndsWGVXdWRuc2o0ZndxNENTZz09IiwibWFjIjoiOGUyYjgyZGFjODQ1NzFkZTdiZDQzMWNhZmRkZjVkMDkyMDg5YTg1YjgzZGIwYTZiNDY1ZGIyMmI0MDU2ZWNkMCIsInRhZyI6IiJ9",
+    "title_ar": "تحديد النطاق الجغرافي لمحمية مجامع الهضب",
+    "title_en": "تحديد النطاق الجغرافي لمحمية مجامع الهضب",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/١٠"
+      }
+    ],
+    "number": "197",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/١٠",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IllINVA3VEFUZExCd2VkQ3JTanZGdUE9PSIsInZhbHVlIjoiK2tOYVZnMnBUZEE3VlQ0R0E0Zko5dz09IiwibWFjIjoiMDE5YjRiZWExZWNkZjdhNGViMzFhMzIxNmUyNzI1NDc5NzMzZjM1OWVmYzdhNmU5NzYwMzJkNTY1MGMzNDEwYSIsInRhZyI6IiJ9",
+    "title_ar": "إحلال عبارة (وزارة البلديات والإسكان) محل عبارة (وزارة الشؤون البلدية والقروية والإسكان) وإحلال عبارة (وزير البلديات والإسكان) محل عبارة (وزير الشؤون البلدية والقروية والإسكان) أينما وردت في الأنظمة والتنظيمات والأوامر والمراسيم الملكية والقرارات وغيرها",
+    "title_en": "إحلال عبارة (وزارة البلديات والإسكان) محل عبارة (وزارة الشؤون البلدية والقروية والإسكان) وإحلال عبارة (وزير البلديات والإسكان) محل عبارة (وزير الشؤون البلدية والقروية والإسكان) أينما وردت في الأنظمة والتنظيمات والأوامر والمراسيم الملكية والقرارات وغيرها",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٣/٠٣"
+      }
+    ],
+    "number": "181",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/٠٣",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InNhYVY0VVBvZDdOUFgzdlRpTmtINkE9PSIsInZhbHVlIjoiQjZCeW93aXJKM0FaaUxCa2tIUlo4UT09IiwibWFjIjoiYzk2NDdjMWM3OGU5MWJmZGQ2MzIxMmE2NjE2MGYyYTM3ODU4NmFkNmM1ZDRhZGY2YjQxN2IwYTk0ZjQ5NzZiMSIsInRhZyI6IiJ9",
+    "title_ar": "نظام الحرف والصناعات اليدوية لعام 1447هـ",
+    "title_en": "نظام الحرف والصناعات اليدوية لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠٣/٠٢"
+      }
+    ],
+    "number": "م/49",
+    "is_valid": "غير سارية",
+    "approve_date": "١٤٤٧/٠٣/٠٢",
+    "marker": {
+      "class": "no-valid-modern",
+      "title_ar": "الوثيقة حديثة وغير نافذة",
+      "title_en": "The document is modern and impermeable"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6ImRraURKOTFRWHUxQkt1bzZJTExmOFE9PSIsInZhbHVlIjoiK3RJMDdVYzBvR2JoaWlDK0dTRmFadz09IiwibWFjIjoiY2YyYWIzMjYwZmQyN2U0NTdjZTBhMDFmOTYzYWEyNzM2YzExNzA4MjVmYWY1ODI5YWI4NjAzYjM4NTg2NWE0NiIsInRhZyI6IiJ9",
+    "title_ar": "يجوز لوزير التجارة في الحالات التي يقدرها تعيين جميع أعضاء مجلس إدارة الغرفة التجارية",
+    "title_en": "يجوز لوزير التجارة في الحالات التي يقدرها تعيين جميع أعضاء مجلس إدارة الغرفة التجارية",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠٣/٠٢"
+      }
+    ],
+    "number": "م/51",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/٠٢",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6ImJKMDB0TEZ5N1RIVVZkUHJ0bXd6T3c9PSIsInZhbHVlIjoiUklFSFBUMzR1elpWZ0E3TDlxbEJVQT09IiwibWFjIjoiZGI1MzI4MzkzNTRhYTE5ZTdkOGRmZGI0NTIwMjZhZTY4MjNmODU4ZTAwODA1OWRhZDRmZjI0NjJlMzRlM2IxMSIsInRhZyI6IiJ9",
+    "title_ar": "تعديل المادة (74) من نظام المرور لعام 1428هـ",
+    "title_en": "تعديل المادة (74) من نظام المرور لعام 1428هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠٣/٠٢"
+      }
+    ],
+    "number": "م/50",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٣/٠٢",
+    "marker": {
+      "class": "valid-modern",
+      "title_ar": "الوثيقة سارية وحديثة",
+      "title_en": "The document is current and up-to-date."
+    },
+    "PublishingStatus": 1,
+    "is_latest": 1,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6Im03ejZNdm9TQUFCajNUL1h3UGZmM1E9PSIsInZhbHVlIjoic2YyR0IrY2tOaGd1MDBYTHdsZnVYZz09IiwibWFjIjoiMjQ5NjU1MmJiOGE2Njg4OTUwMzUwN2E4M2U2YTY3Y2YxMjk4Mzk1ZWU3ODRkYTQ4M2ZjYzg4NGEwNDgwZmMzMyIsInRhZyI6IiJ9",
+    "title_ar": "تولي هيئة التراث تنظيم نشاط الحرف والصناعات اليدوية وفقاً لما يحدده نظام الحرف والصناعات اليدوية",
+    "title_en": "تولي هيئة التراث تنظيم نشاط الحرف والصناعات اليدوية وفقاً لما يحدده نظام الحرف والصناعات اليدوية",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٢/٢٥"
+      }
+    ],
+    "number": "157",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/٢٥",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InBueUdJNnZTbU54OU5oc0I2c1NuS1E9PSIsInZhbHVlIjoiN0tLUUtzZTNIUmxnZUcrUTZzY2Vudz09IiwibWFjIjoiZTg3YzJmNzcxY2ZlZjA2NDdhZmM1OTY4MjMwZWUxYjc1ZmI1N2ZkMjMxZTFjMWRhMmQ0OGUzZmM1NWY3OWJiOSIsInRhZyI6IiJ9",
+    "title_ar": "الاشتراطات البلدية لتصريح إشغال رصيف لعام 1447هـ",
+    "title_en": "الاشتراطات البلدية لتصريح إشغال رصيف لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 6,
+        "name_ar": "قرار وزاري",
+        "name_en": "Ministerial Decision",
+        "TypeOrder": "6",
+        "approve_date": "١٤٤٧/٠٢/٢٥"
+      }
+    ],
+    "number": "1/4700073988",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/٢٥",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IkNQNU90aENJZVhsRW5reDZnUWFwMGc9PSIsInZhbHVlIjoibysvc2dMV0E0Vm9pMW9PK3djd3N5UT09IiwibWFjIjoiNTExZmVlYWMxMmE1MzBlN2ZlN2FiYjhkMzVmYmZkY2JjOWIwYzllOTZkOWM2NzAyZTM5M2EyZmU3ZTJhNTUwZiIsInRhZyI6IiJ9",
+    "title_ar": "إضافة فقرة إلى البند (ثالثاً) من إعادة تنظيم إجراءات عملية نشر الأنظمة في الجريدة الرسمية لعام 1425هـ",
+    "title_en": "إضافة فقرة إلى البند (ثالثاً) من إعادة تنظيم إجراءات عملية نشر الأنظمة في الجريدة الرسمية لعام 1425هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٢/٢٥"
+      }
+    ],
+    "number": "159",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/٢٥",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IjhxcWU3U3pSOG5yVWU1TkpDdWY2S3c9PSIsInZhbHVlIjoiN0pDWlVpZUNIblNSWUlnWWl3QW9jdz09IiwibWFjIjoiMzA5OTk2MzQxZjJlZTA5NjdjNzhiMGQ2YWFjNzBmOGFhNzM0NzU2OTcwYTQyZmQ4MzJkZDRkZjlkZTNmZDNjZCIsInRhZyI6IiJ9",
+    "title_ar": "حذف المادة (7) وتعديل المواد (8، 9، 11، 13، 15) من تنظيم الهيئة السعودية للمحامين لعام 1436هـ",
+    "title_en": "حذف المادة (7) وتعديل المواد (8، 9، 11، 13، 15) من تنظيم الهيئة السعودية للمحامين لعام 1436هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٢/١٨"
+      }
+    ],
+    "number": "143",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/١٨",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6ImdmOFJueTUwRG5OQ0xPVXdQSnB6R2c9PSIsInZhbHVlIjoibUxFL1FTUEdQdWRGcXdWdm1PaGlwUT09IiwibWFjIjoiYmE1Yzk5YTk0ZDUxOWUwZDdlZjE1ZGIyZWUxYTg5NWU3MDk3YWMzODQ1ZGE5MDcxNGNmY2JhZWYyZjg5ODI3MiIsInRhZyI6IiJ9",
+    "title_ar": "تمديد العمل بوجوب التقدم إلى مكتب العمل قبل رفع الدعوى العمالية أمام المحاكم العمالية لمدة سنة من تاريخ 20/2/1447هـ",
+    "title_en": "تمديد العمل بوجوب التقدم إلى مكتب العمل قبل رفع الدعوى العمالية أمام المحاكم العمالية لمدة سنة من تاريخ 20/2/1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٢/١٨"
+      }
+    ],
+    "number": "141",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/١٨",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IjduVnRnTG1ka1d5bld0OS9JaVJzRXc9PSIsInZhbHVlIjoidzhXSG5uSzNSR2l0ZTVFRGloZ1NLQT09IiwibWFjIjoiMGM5NzNmOTc2OTk1YjUyNGVjNGE2ODgwNDg5ZTJhOWZiZWZhZjVmZTNmZDUwZDRlNTc1ZWJjMTkyYTU0YmRhNSIsInRhZyI6IiJ9",
+    "title_ar": "اعتماد الترقيم المستخدم في العنوان الوطني في ترقيم العقارات بموجب قواعد تسمية الشوارع والميادين وترقيم العقارات بمدن المملكة وقراها الصادرة عام 1406هـ",
+    "title_en": "اعتماد الترقيم المستخدم في العنوان الوطني في ترقيم العقارات بموجب قواعد تسمية الشوارع والميادين وترقيم العقارات بمدن المملكة وقراها الصادرة عام 1406هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٢/١١"
+      }
+    ],
+    "number": "126",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/١١",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InR5d1Z5YnNXcEZxY0FtY3lqZCt5ZVE9PSIsInZhbHVlIjoiTHRpUUJieXJBcmEwUzhiVy8xZFpnQT09IiwibWFjIjoiNmIwZjQ3MTgxN2ZiOGUzMzg3NzYxNjE1YjViYmJhZTJmNjQ4ZjA2MWE5MDY5MWE2YmFkNmNiZTY2ZTJlMTg5MiIsInRhZyI6IiJ9",
+    "title_ar": "تعديل المادتين (5، 10) من تنظيم المركز الوطني للأرصاد لعام 1440هـ",
+    "title_en": "تعديل المادتين (5، 10) من تنظيم المركز الوطني للأرصاد لعام 1440هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠٢/١١"
+      }
+    ],
+    "number": "127",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/١١",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IithQ2V0djhGWVVlMHBMNEwvUGEyTWc9PSIsInZhbHVlIjoiZU5VZE9HQktHUUlWUmZZYUllNStMQT09IiwibWFjIjoiOGY4OGIyYWQyMzNlYTQzMDdhMDJkMjYwNTcwZDA5ZmM3ZjhjOGQzNDdjNmViNzc5ZDY3M2M3ZGM4NmZhYmFjMyIsInRhZyI6IiJ9",
+    "title_ar": "نظام الإحصاء لعام 1447هـ",
+    "title_en": "نظام الإحصاء لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠٢/١٠"
+      }
+    ],
+    "number": "م/29",
+    "is_valid": "غير سارية",
+    "approve_date": "١٤٤٧/٠٢/١٠",
+    "marker": {
+      "class": "no-valid",
+      "title_ar": "الوثيقة غير سارية",
+      "title_en": "The document is not valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6ImRqU1hOZXdyWWJuOEhHV2FQMWdmdXc9PSIsInZhbHVlIjoiN29QWDF5ZXpHWlc0c3FBQzdXQUtIdz09IiwibWFjIjoiMzY5NDc2MTVhOTMwYzJjZGFlMDAyODgyZDVkY2Y4YzI4NDJiMzJlNDMyYTQ5ZDNiYjVlNDJjZWY3NGM1N2FmYiIsInRhZyI6IiJ9",
+    "title_ar": "تعديل الفقرتين (4) و (5) من المادة (6) من اللائحة التنفيذية لنظام مهنة المحاسبة والمراجعة لعام 1442هـ",
+    "title_en": "تعديل الفقرتين (4) و (5) من المادة (6) من اللائحة التنفيذية لنظام مهنة المحاسبة والمراجعة لعام 1442هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 6,
+        "name_ar": "قرار وزاري",
+        "name_en": "Ministerial Decision",
+        "TypeOrder": "6",
+        "approve_date": "١٤٤٧/٠٢/٠٣"
+      }
+    ],
+    "number": "28",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠٢/٠٣",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6ImE0WC90aTVsNVI2MUtON0hLT3Awb1E9PSIsInZhbHVlIjoiYTMwWnV5cDBGdGVaQlV3OUw4KzRUUT09IiwibWFjIjoiZjVjMzZiMGJiZDEzMzliOGJiZWRhNzgwODJmY2I3NTM1YjFhZDZhYzdhZTgxODMxOTRiMWJmZWRjYjgzOGFjNiIsInRhZyI6IiJ9",
+    "title_ar": "تعديل المواد (1، 2، 4) من تنظيم الهيئة السعودية للبحر الأحمر لعام 1445هـ",
+    "title_en": "تعديل المواد (1، 2، 4) من تنظيم الهيئة السعودية للبحر الأحمر لعام 1445هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠١/٢٧"
+      }
+    ],
+    "number": "78",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٧",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IjRzdnJ6RFpNUEdVWEZnOHR1bHNrdEE9PSIsInZhbHVlIjoiS0s1R1duNVlxRnlvKytEdnAxMEpEdz09IiwibWFjIjoiNmJkZDdjZGNhYmQ2YTIxNmI2MzZiNTY1Y2JhNjFiMTM0N2IxMjdiYmFiYjI1NTIxZTRmMTFkYTYxMjhhYmFjZCIsInRhZyI6IiJ9",
+    "title_ar": "تمكين أمانة محافظة جدة من تنفيذ مهمات الرقابة وحماية الساحل الممتد من مركز السطح بمحافظة رابغ (شمالاً) إلى مركز الكدوف بمحافظة القنفذة (جنوباً) وحمايته بيئياً",
+    "title_en": "تمكين أمانة محافظة جدة من تنفيذ مهمات الرقابة وحماية الساحل الممتد من مركز السطح بمحافظة رابغ (شمالاً) إلى مركز الكدوف بمحافظة القنفذة (جنوباً) وحمايته بيئياً",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠١/٢٧"
+      }
+    ],
+    "number": "80",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٧",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6InUrYWN1RGgzKzlaN29YbkJ4V1FqOXc9PSIsInZhbHVlIjoiZ2lQUTYyakttcys2a01kYUw3VW1ZUT09IiwibWFjIjoiOWQ2MTlkZmE2ZjFmNWE2OGRiZGUyNDk2MGZlOWUxM2RiMzAwZWMzNGVmMWUxMGUyOGVkYmZiNjM5MWM0MTllOSIsInRhZyI6IiJ9",
+    "title_ar": "ضم المركز الوطني لتنمية القطاع غير الربحي إلى عضوية اللجنة الدائمة لمكافحة غسل الأموال",
+    "title_en": "ضم المركز الوطني لتنمية القطاع غير الربحي إلى عضوية اللجنة الدائمة لمكافحة غسل الأموال",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 4,
+        "name_ar": "قرار مجلس الوزراء",
+        "name_en": "Minister Council Decision",
+        "TypeOrder": "3",
+        "approve_date": "١٤٤٧/٠١/٢٧"
+      }
+    ],
+    "number": "83",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٧",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IlFiZ2x2SUNMOGYyRDAwMzlCcDVESHc9PSIsInZhbHVlIjoiY1RjNHVtQ3FGT2hMKzFka2VXU05WZz09IiwibWFjIjoiZjU0MjcxMzcwYzgzNjBiYWExN2E2YTJlMjc2ZTc2YjUwMzIwNmVlZTdiNzY1NmU1YWIwYjdkMjlhMTM5ZThmYiIsInRhZyI6IiJ9",
+    "title_ar": "تعديل المواد (11، 12، 38، 40) من نظام التوثيق لعام 1441هـ",
+    "title_en": "تعديل المواد (11، 12، 38، 40) من نظام التوثيق لعام 1441هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠١/٢٦"
+      }
+    ],
+    "number": "م/21",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٦",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IlJMNEFmUlZxLzlSelV3YXcwTHBMK1E9PSIsInZhbHVlIjoiSGY2SEpkMG9iMldoaDVmTUU2d2NWZz09IiwibWFjIjoiNGYwYzIzOWQ0NDQ3YjlhYTI4NWMxYjJlMGRjZmNkY2UyNjNlNTUyMzMyYThkYzY0YWNjNzNhYTgwMTVhZmU3OSIsInRhZyI6IiJ9",
+    "title_ar": "تعديل المادتين (10، 50) من نظام التحكيم لعام 1433هـ",
+    "title_en": "تعديل المادتين (10، 50) من نظام التحكيم لعام 1433هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠١/٢٦"
+      }
+    ],
+    "number": "م/21",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٦",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6IjNMK0VKZUtCU2pYNkhYVnhtcmNnRmc9PSIsInZhbHVlIjoidjJwa2xYck9kL202cXlaUWRvU2phQT09IiwibWFjIjoiZTcwMzcwMWYzMDI5NWI2ZjMwNmM0MzAxOTY3MGU4OWQzMTAzZmUxNzNjMDBjM2YxNDFjYzg1YTJhOGRkY2Y2YiIsInRhZyI6IiJ9",
+    "title_ar": "تعديل المادتين (18، 26) من نظام المحاماة لعام 1422هـ",
+    "title_en": "تعديل المادتين (18، 26) من نظام المحاماة لعام 1422هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 2,
+        "name_ar": "مرسوم ملكي",
+        "name_en": "Royal Decree",
+        "TypeOrder": "2",
+        "approve_date": "١٤٤٧/٠١/٢٦"
+      }
+    ],
+    "number": "م/21",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٦",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6Imk0dk5oOVNXT1hteGltS2xMRUF6WkE9PSIsInZhbHVlIjoiVVFRWUJhWjlkVlVpL01wYkJJb2FnZz09IiwibWFjIjoiOTYwZjMxZWY3M2M5OTg3NjU2N2I4MmE0MGE2NzRmYWNjOWY3YmU2ZmYyZGM1MjRhYTA1YWU0MDA1NGRlZGI2MSIsInRhZyI6IiJ9",
+    "title_ar": "إلغاء المادة (15) من تنظيم هيئة المدن والمناطق الاقتصادية الخاصة لعام 1431هـ",
+    "title_en": "إلغاء المادة (15) من تنظيم هيئة المدن والمناطق الاقتصادية الخاصة لعام 1431هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 1,
+        "name_ar": "أمر ملكي",
+        "name_en": "Royal Order",
+        "TypeOrder": "1",
+        "approve_date": "١٤٤٧/٠١/٢٥"
+      }
+    ],
+    "number": "أ/19",
+    "is_valid": "غير سارية",
+    "approve_date": "١٤٤٧/٠١/٢٥",
+    "marker": {
+      "class": "no-valid",
+      "title_ar": "الوثيقة غير سارية",
+      "title_en": "The document is not valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  },
+  {
+    "id": "eyJpdiI6Imd6cHMvYjdlUlgzVHFiQUtFR1NQaUE9PSIsInZhbHVlIjoiRDFnVVNkQkdzYWNhUVFpVUNvSzZsQT09IiwibWFjIjoiMzczYWM5ZGVhZGU4MGVkMjY0NjEzOTBiYjlkYzYzODg4YTA5NWFhYzdiODAxMmNiOTRhNjQxYzliYTFkMjRhNSIsInRhZyI6IiJ9",
+    "title_ar": "اشتراطات ورش إصلاح وسائل النقل لعام 1447هـ",
+    "title_en": "اشتراطات ورش إصلاح وسائل النقل لعام 1447هـ",
+    "status": "2",
+    "Approves": [
+      {
+        "id": 6,
+        "name_ar": "قرار وزاري",
+        "name_en": "Ministerial Decision",
+        "TypeOrder": "6",
+        "approve_date": "١٤٤٧/٠١/٢٠"
+      }
+    ],
+    "number": "4600862909/1",
+    "is_valid": "سارية",
+    "approve_date": "١٤٤٧/٠١/٢٠",
+    "marker": {
+      "class": "valid",
+      "title_ar": "الوثيقة سارية",
+      "title_en": "The document is valid"
+    },
+    "PublishingStatus": 1,
+    "is_latest": 0,
+    "checked": false,
+    "IsGovernmental": 0
+  }
+]
